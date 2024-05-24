@@ -13,7 +13,7 @@ function LargeCards() {
     color: "bg-orange-300"
   },{
     period: 'this month sales',
-    sales: 40044545,
+    sales: 400445,
     color: "bg-blue-300"
   },{
     period: 'last month sales',
