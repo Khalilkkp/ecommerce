@@ -10,9 +10,11 @@
   },
   "dependencies": {
     "git": "^0.1.5",
+    "lucide-react": "^0.379.0",
     "next": "14.2.3",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "sass": "^1.77.2"
   },
   "devDependencies": {
     "eslint": "^8",
