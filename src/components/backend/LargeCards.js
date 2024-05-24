@@ -19,10 +19,6 @@ function LargeCards() {
     period: 'last month sales',
     sales: 4000,
     color: "bg-purple-300"
-  },{
-    period: 'all time sales',
-    sales: 4000,
-    color: "bg-green-300"
   },
 ]
   return (
