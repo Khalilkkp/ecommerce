@@ -1,4 +1,5 @@
 import "@/app/main.scss"
+import CustomDataTable from "@/components/backend/CustomDataTable";
 import DashboardCharts from "@/components/backend/DashboardCharts";
 import Heading from "@/components/backend/Heading";
 import LargeCards from "@/components/backend/LargeCards";
@@ -15,6 +16,7 @@ export default function Home() {
       {/* charts  */}
       <DashboardCharts />
       {/* recent orders  */}
+      <CustomDataTable />
 
     </div>
   );
